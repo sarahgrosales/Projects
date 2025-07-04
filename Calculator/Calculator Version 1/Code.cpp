@@ -31,8 +31,8 @@ int main(){
 	cin >> y;
 	
 	division();
-addition();
-multiplication();
+	addition();
+	multiplication();
 	subtraction();
 	
 	return 0;
