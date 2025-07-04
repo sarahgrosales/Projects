@@ -39,3 +39,20 @@ int main(){
 
     return 0;
 }
+
+// The output if you enter 2 dozens is:
+// Hi! I see you want to make some yummy cookies.
+// How many dozens would you like?
+// Enter number of dozens: 2
+// 
+// Here is your recipe!
+//  1. 12 tablespoons of unsalted butter.
+//  2. 0.5 cup of dark brown sugar.
+//  3. 6 tablespoons of granulated sugar.
+//  4. 2 large egg yolk.
+//  5. 1.5 teaspoon of vanilla extract.
+//  6. 1 cup all purpose flour.
+//  7. 0.24 teaspoon of salt.
+//  8. 0.5 teaspoon of baking soda.
+//  9. 0.5 teaspoon of baking powder.
+//  10. 0.66 cup of chocolate chips.
