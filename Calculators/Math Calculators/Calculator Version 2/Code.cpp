@@ -31,19 +31,19 @@ int main (){
        switch (c)                                                      // Declares the switch function.
        {
            case '1':                                                   // Case 1 is "Addition"
-               cout << "Your addition is: " << a + b << endl;          // The function that adds variables a and b together.
+               cout << "Your addition is: " << a + b << endl;          // This equation adds variables a and b together.
                break;                                                  // Ends the case.
            case '2':                                                   // Case 2 is "Subtraction"
-               cout << "Your subtraction is: " << a - b << endl;       // The function that subtracts variables a and b from each other. 
+               cout << "Your subtraction is: " << a - b << endl;       // This equation subtracts variables a and b from each other. 
                break;                                                  // Ends the case.
            case '3':                                                   // Case 3 is "Multiplication"  
-               cout << "Your product is: " << a * b << endl;           // The function that multiplies variables a and b together.
+               cout << "Your product is: " << a * b << endl;           // This equation multiplies variables a and b together.
                break;                                                  // Ends the case.
            case '4':                                                   // Case 4 is "Division"
-               cout << "Your quotient is: " << a / b << endl;          // The function that divides variable a by variable b.
+               cout << "Your quotient is: " << a / b << endl;          // This equation divides variable a by variable b.
                break;                                                  // Ends the case.
            case '5':                                                   // Case 5 is "Modulus"     
-               cout << "Your module is: " << a % b << endl;            // The function finds the remainder of variable a being divided by variable b.  
+               cout << "Your module is: " << a % b << endl;            // This equation finds the remainder of variable a being divided by variable b.  
                break;                                                  // Ends the case.
            case '6':                                                   // Case 6 is "Power" 
                temp = 1;                                               // The for loop is used here to simulate the power sign.
