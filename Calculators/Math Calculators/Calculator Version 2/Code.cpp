@@ -59,3 +59,17 @@ int main (){
        }
    return 0;
 }
+
+// This code prints:
+// Enter the first number: 2
+// Enter the second number: 2
+// Select the operation you want: 
+//       1. Addition
+//       2. Subtraction
+//       3. Multiplication
+//       4. Division
+//       5. Modulus
+//       6. Power
+// Enter your choice: 6
+// Your power is: 4
+
