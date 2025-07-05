@@ -5,11 +5,12 @@
 #include <string>
 using namespace std;
 
-// 1. Calculates the largest common divisor of two integers.
-int gcd (int a, int b) {
+// 1. Calculates the largest common divisor of two integers. This is a version of 
+// the Euclidean algorithm, which calculates the GCD.
+int gcd (int a, int b) {   
     a = abs(a);       // abs(a) ensures a is not negative.
     b = abs(b);       // abs(b) ensures b is not negative.
-    while (b != 0) {  //
+    while (b != 0) {  // checks if b equals 0. 
         int t = b;    // Stores b in t. 
         b = a % b;    // Sets b to equal the remainder of a / b.
         a = t;        // Stores t into a. 
