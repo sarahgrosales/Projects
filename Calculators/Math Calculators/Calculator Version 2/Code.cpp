@@ -1,3 +1,5 @@
+// This is a basic calculator with the addition of modulus and power using switch cases. 
+
 #include <iostream>  //library
 using namespace std;
 
