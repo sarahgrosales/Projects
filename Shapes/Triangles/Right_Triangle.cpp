@@ -15,3 +15,13 @@ int main (){
 // Ways to improve:
 // 1) Add a way for users to input how big they want the triangle to be.
 // 2) Create a UI for it.
+//
+// This prints:
+//  *
+//  **
+//  ***
+//  ****
+//  *****
+//  ******
+
+
