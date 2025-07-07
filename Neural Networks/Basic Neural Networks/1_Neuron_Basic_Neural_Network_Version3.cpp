@@ -74,7 +74,7 @@ int main () {
         
         // Optional: prints loss every 100 epochs (10 times)
         if (e % 100 == 0 ) {
-            cout << "Epoch " << e
+            cout << "Epoch " << e                                //Epoch means one complete pass through your dataset.
                  << "        Loss: " << totalLoss << endl;
         }
     }
